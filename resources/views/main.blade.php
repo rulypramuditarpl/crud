@@ -22,7 +22,7 @@
       <a class="nav-item nav-link active" href="{{ url('/home') }}">Home</a>
       <a class="nav-item nav-link" href="{{ url('/index') }}">Welcome</a>
       <a class="nav-item nav-link" href="{{ url('/siswa') }}">Siswa</a>
-      <a class="nav-item nav-link" href="{{ url('/students') }}">Data Siswa</a>
+      <a class="nav-item nav-link" href="{{ url('/students') }}">Info Siswa</a>
     </div>
     </div>
   </div>
